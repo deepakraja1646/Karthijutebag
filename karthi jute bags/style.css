@@ -1,0 +1,80 @@
+body{
+    padding: 25px;
+    background-color:  hsl(273, 93%, 39%);
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(251, 100%, 24%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 200px;
+    font-size: 20px;
+}
+    
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block; 
+    text-align: center;
+}
+            
+.navbar a:hover{
+        background-color: hsl(207, 89%, 46%);
+        
+}
+.navbar li{
+    float: left;
+}
+aside{
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+section{
+    width: 50%;
+    float: left;
+    padding: 10px;
+}
+p{
+    font-size:25px;
+}
+h2{
+    font-size: 40px;
+}
+img{
+    padding-left: 200px;
+    width: 30%;
+    float: right;
+    border-radius: 20px;
+}
+
+.btn{
+    padding: 8px 20px 8px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: black;
+    color: blue;
+    
+}
+.div1{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 25px;
+}
+.div2{
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 25px;
+}
+dd,dt{
+    font-size: 30px;
+}
+.div2-li{
+    font-size: 30px;
+}
